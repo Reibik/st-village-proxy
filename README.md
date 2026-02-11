@@ -30,10 +30,10 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/Reibik/mtproxy-installer.git
+git clone https://github.com/Reibik/st-village-proxy.git
 
 # 2. Переходим в папку
-cd mtproxy-installer
+cd st-village-proxy
 
 # 3. Делаем скрипт исполняемым
 chmod +x install_proxy.sh
