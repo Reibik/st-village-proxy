@@ -30,7 +30,7 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone [https://github.com/ВАШ_НИКНЕЙМ/mtproxy-installer.git](https://github.com/ВАШ_НИКНЕЙМ/mtproxy-installer.git)
+git clone https://github.com/Reibik/mtproxy-installer.git
 
 # 2. Переходим в папку
 cd mtproxy-installer
